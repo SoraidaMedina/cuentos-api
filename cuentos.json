@@ -1,0 +1,332 @@
+[
+  {
+    "id": "terror_casa",
+    "titulo": "La casa al final del camino",
+    "categoria": "terror",
+    "duracion": "mediana",
+    "descripcion": "Una noche oscura, tu carro se queda sin gasolina cerca de una casa misteriosa.",
+    "imagen": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=600",
+    "contenido": "Son las once de la noche. Tu carro se quedó sin gasolina a un kilómetro del pueblo. Ves una casa vieja con una luz encendida al fondo del camino. Te acercas a la casa. La puerta está entreabierta. Tocas y nadie responde. Adentro huele a velas y tierra mojada. En la sala hay una mesa con dos sillas, y en una de ellas hay un diario abierto. La última entrada dice: 'Si alguien lee esto, no abra la puerta del sótano'. De repente escuchas golpes desde abajo. Abres la puerta del sótano. Los golpes se detienen de golpe. Bajas tres escalones y tu linterna alumbra decenas de fotografías clavadas en las paredes: todas son tuyas. De hoy. De esta noche. Alguien te ha estado siguiendo desde que saliste de casa. Subes corriendo, sales a la calle y no paras hasta llegar al pueblo. Nunca supiste quién vivía en esa casa. Y quizás es mejor así.",
+    "minutos": "10-15 min"
+  },
+  {
+    "id": "terror_espejo",
+    "titulo": "El espejo del pasillo",
+    "categoria": "terror",
+    "duracion": "corta",
+    "descripcion": "Te mudas a un departamento viejo con un espejo que guarda un oscuro secreto.",
+    "imagen": "https://images.unsplash.com/photo-1547407139-3c921a66005c?w=600",
+    "contenido": "Te mudas a un departamento viejo. El dueño te advierte: 'Nunca mires el espejo del pasillo a las tres de la mañana'. Pero son las 2:55 y escuchas un ruido en la cocina. Vas a la cocina. Solo el refrigerador zumbando. Abres la puerta y hay un espejo pegado en la parte de atrás, con una nota: 'Me encontraste'. Te acercas al espejo. Son las 2:59. Ves tu reflejo... pero él no se mueve cuando tú te mueves. El reflejo sonríe y levanta la mano. El reloj marca las 3:00. Tu reflejo sale del espejo y dice: 'Gracias por abrir la puerta'.",
+    "minutos": "3-5 min"
+  },
+  {
+    "id": "terror_oscuridad",
+    "titulo": "El último tren",
+    "categoria": "terror",
+    "duracion": "larga",
+    "descripcion": "Tomas el último tren y descubres que no todos los pasajeros están vivos.",
+    "imagen": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600",
+    "contenido": "Son las 11:45 PM. Tomas el último tren a tu pueblo. El vagón está vacío excepto por un hombre en la última fila que lee un periódico viejo. De repente, el tren se detiene en medio de la nada. Te acercas al hombre. El periódico que lee es de 1956. Él levanta la cabeza: 'Este es el tren que nunca llega. Bienvenido'. 'Este tren transporta almas perdidas. Tú te equivocaste de vagón'. Miras hacia atrás y el vagón está lleno de personas pálidas y silenciosas. El conductor anuncia: 'Próxima parada, la eternidad'. Cierras los ojos. Cuando los abres, el sol está entrando, el tren llega a tu estación y el hombre ya no está. Solo el periódico de 1956. Lo tomas y ves tu nombre en la primera plana: 'Desaparecido desde ayer'.",
+    "minutos": "15-20 min"
+  },
+  {
+    "id": "terror_bruja",
+    "titulo": "La bruja del bosque",
+    "categoria": "terror",
+    "duracion": "corta",
+    "descripcion": "Encontrar una cabaña en el bosque puede ser la peor decisión de tu vida.",
+    "imagen": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600",
+    "contenido": "Te pierdes en el bosque y encuentras una cabaña con una luz encendida. Dentro, una mujer teje en una mecedora. Te invita a pasar. Entras. La mujer sonríe. 'Llevaba años esperando visita', dice. Te ofrece té. Cuando lo tomas, notas que la cabaña no tiene puerta. 'No te preocupes', dice ella. 'Aquí nadie se va'. Sigues caminando. Al amanecer, encuentras el pueblo. Pero todos te miran raro. Resulta que la cabaña de la bruja solo aparece para quienes están perdidos. Y tú ya no estás perdido.",
+    "minutos": "3-5 min"
+  },
+  {
+    "id": "terror_cajon",
+    "titulo": "El cajón prohibido",
+    "categoria": "terror",
+    "duracion": "mediana",
+    "descripcion": "Encuentras un cajón que nunca debiste abrir.",
+    "imagen": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=600",
+    "contenido": "En el ático de tu abuela encuentras un cajón con una nota: 'No abrir jamás'. Pero la curiosidad puede más que el miedo. Abres el cajón. Hay fotografías de tu abuela con personas que no conoces. En todas, ella es la única que sigue viva. Al final, una foto tuya, con el rostro tachado. 'Bienvenido a la familia', dice una voz detrás de ti. Dejas el cajón cerrado. Pero esa noche sueñas con tu abuela, que te dice: 'Gracias por no abrirlo. Algunos secretos deben morir con nosotros'.",
+    "minutos": "8-12 min"
+  },
+  {
+    "id": "aventuras_mapa",
+    "titulo": "El mapa del abuelo",
+    "categoria": "aventuras",
+    "duracion": "larga",
+    "descripcion": "Un mapa viejo te lleva a buscar un tesoro escondido en la sierra.",
+    "imagen": "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=600",
+    "contenido": "Al limpiar la casa del abuelo encuentras un mapa dibujado a mano. Señala una X marcada en la sierra. El camino del río está crecido por las lluvias. A mitad del camino encuentras a una niña sentada en una roca, llorando. Dice que su perro cayó al río y la corriente se lo llevó. Sigues la corriente y encuentras al perro atrapado entre dos ramas. Lo rescatas. La niña corre hacia ti feliz. Su abuelo, que llegó a buscarla, resulta ser el guardabosques. '¿Buscas la cueva del viejo mapa?' pregunta. 'Yo te llevo, conozco el atajo'. Llegas en la mitad del tiempo. En la cueva encuentras el diario del abuelo y una pepita de oro envuelta en su pañuelo. Misión cumplida.",
+    "minutos": "15-20 min"
+  },
+  {
+    "id": "aventuras_bosque",
+    "titulo": "El árbol milenario",
+    "categoria": "aventuras",
+    "duracion": "corta",
+    "descripcion": "Te pierdes en el bosque y encuentras un árbol que guarda un secreto.",
+    "imagen": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=600",
+    "contenido": "En una excursión escolar te pierdes en el bosque. Encuentras un árbol enorme, más grande que todos los demás. El camino rojo te lleva a un claro donde hay un grupo de niños de la escuela. ¡Te encontraron! El profesor te abraza. '¿Dónde estabas? Hemos buscado por horas'. El camino azul te lleva a una cabaña de madera. Una anciana te ofrece té caliente. 'Siempre hay un niño perdido cada año', dice. 'Pero siempre regresa, y siempre es el mismo niño'. Te das cuenta: la anciana también era tú en otro tiempo.",
+    "minutos": "3-5 min"
+  },
+  {
+    "id": "aventuras_tesoro",
+    "titulo": "El tesoro del capitán",
+    "categoria": "aventuras",
+    "duracion": "mediana",
+    "descripcion": "Una botella con un mapa te lleva a buscar el tesoro de un pirata legendario.",
+    "imagen": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600",
+    "contenido": "Encontraste una botella en la playa. Dentro, un mapa del tesoro del Capitán Barbanegra. El barco de pescadores te lleva a la isla. Los pescadores te dan un día para buscar el tesoro. Sigues el mapa y encuentras una cueva llena de monedas y joyas. Pero también hay una trampa que te atrapa por horas, hasta que los pescadores te rescatan. Construyes una balsa y navegas. En medio del mar, te encuentras con una tormenta. La balsa se rompe y nadas hasta la isla. En la orilla, el mapa ya no sirve. Pero encuentras a una mujer que vive en la isla desde hace 20 años. 'No hay tesoro', dice. 'El mapa era para encontrar compañía'.",
+    "minutos": "8-12 min"
+  },
+  {
+    "id": "aventuras_cueva",
+    "titulo": "La cueva olvidada",
+    "categoria": "aventuras",
+    "duracion": "corta",
+    "descripcion": "Explorando una cueva, encuentras algo que no esperabas.",
+    "imagen": "https://images.unsplash.com/photo-1530737602767-89ffd5b3c1f4?w=600",
+    "contenido": "Explorando una cueva, ves dos túneles. Uno tiene marcas de agua, el otro está seco. El túnel con agua te lleva a una laguna subterránea. En el fondo, ves algo brillar. Es una espada antigua, que al tocarla, ilumina toda la cueva. Encuentras una salida al otro lado de la montaña. El túnel seco te lleva a una cámara con pinturas rupestres. Muestran a personas bailando alrededor de una hoguera. En el centro, una piedra que al tocarla, te transporta de vuelta a la entrada. Fue un viaje en el tiempo.",
+    "minutos": "3-5 min"
+  },
+  {
+    "id": "aventuras_globo",
+    "titulo": "El globo viajero",
+    "categoria": "aventuras",
+    "duracion": "larga",
+    "descripcion": "Un globo aerostático te lleva a recorrer el mundo en busca de aventuras.",
+    "imagen": "https://images.unsplash.com/photo-1567701975497-d4c9e89e1cc4?w=600",
+    "contenido": "Ganas un viaje en globo aerostático. Sobrevuelas las montañas y ves un pueblo escondido entre los picos. Aterrizas y descubres que es un lugar donde el tiempo no pasa. Todos son felices. Decides quedarte un día, pero cuando vuelves al globo, el piloto ha envejecido 10 años. Sobrevuelas el mar y ves una isla en forma de corazón. Aterrizas y encuentras un cofre con cartas de amor de hace 100 años. Las llevas al museo del pueblo y te conviertes en un héroe local.",
+    "minutos": "15-20 min"
+  },
+  {
+    "id": "leyenda_nahual",
+    "titulo": "La encrucijada del nahual",
+    "categoria": "leyendas_mexicanas",
+    "duracion": "mediana",
+    "descripcion": "En una noche de luna llena, te encuentras con un nahual en la encrucijada.",
+    "imagen": "https://images.unsplash.com/photo-1547045050-1b1c779c2b68?w=600",
+    "contenido": "Vas camino a casa por el cerro, de noche, cuando ves a un hombre parado en la cruz del camino. Tiene los ojos brillantes como brasas. Los viejos del pueblo dicen que si en la encrucijada te habla un nahual, debes responderle con respeto. Te detienes. Quitas el sombrero y dices: 'Buenas noches tenga usted'. El hombre inclina la cabeza. Su voz suena como hojas secas: 'Tres preguntas te haré. Si contestas bien, el pueblo prospera un año más. Si fallas, te llevo de compañero'. Contestas sin titubear. Las tres preguntas pasan como agua y tú respondes cada una con calma. Al terminar, el hombre se convierte en un tecolote que vuela hacia el monte. Al día siguiente, el maíz del pueblo creció el doble de lo normal. Nadie supo por qué, pero todos lo festejaron. Y tú guardaste el secreto el resto de tu vida.",
+    "minutos": "8-12 min"
+  },
+  {
+    "id": "leyenda_llorona",
+    "titulo": "El eco de la llorona",
+    "categoria": "leyendas_mexicanas",
+    "duracion": "corta",
+    "descripcion": "Escuchas el llanto de La Llorona y decides qué hacer.",
+    "imagen": "https://images.unsplash.com/photo-1545036599-6a1c30dc5c06?w=600",
+    "contenido": "Vas por la calle de noche y escuchas un llanto. '¡Ay mis hijos!' Todos en el pueblo saben que es La Llorona. Sigues el llanto hasta el río. Ves una mujer de blanco que mira al agua. Se voltea y no tiene rostro. Solo un grito que te congela la sangre. Corres tan rápido como puedes y llegas a tu casa. La puerta se cierra sola. Pasas la noche en vela. Rezas y te cubres. El llanto se acerca y luego se aleja. A la mañana siguiente, en tu ventana hay un ramo de flores blancas. Nadie sabe cómo llegó. Los viejos dicen: 'Te dio su bendición'.",
+    "minutos": "3-5 min"
+  },
+  {
+    "id": "leyenda_calaca",
+    "titulo": "La calaca bailarina",
+    "categoria": "leyendas_mexicanas",
+    "duracion": "larga",
+    "descripcion": "En el Día de Muertos, una calaca te invita a bailar.",
+    "imagen": "https://images.unsplash.com/photo-1548624409-5d7568c60160?w=600",
+    "contenido": "En el Día de Muertos, encuentras en el panteón a una calaca vestida de rosa. Te dice: 'Bailamos, y si me ganas, te llevo a ver el Mictlán. Si pierdes, te quedas'. Bailas toda la noche. La calaca es una bailarina increíble. Al amanecer, te dice: 'Ganaste. Bienvenido al Mictlán, pero solo por un día'. El Mictlán es hermoso y aterrador. Ves a todos tus antepasados. La calaca te dice: 'Este lugar no es para los vivos, pero hoy es tu día'. Caminas por nueve niveles y al final, un altar con una foto tuya. 'Ya estás muerto', dice la calaca. 'Siempre lo estuviste'. Despiertas en tu casa. Todo fue un sueño. ¿O no?",
+    "minutos": "15-20 min"
+  },
+  {
+    "id": "leyenda_duende",
+    "titulo": "El duende del mercado",
+    "categoria": "leyendas_mexicanas",
+    "duracion": "corta",
+    "descripcion": "En el mercado, un duende te ofrece un trato especial.",
+    "imagen": "https://images.unsplash.com/photo-1532750467551-ff2e09d95b3e?w=600",
+    "contenido": "En el mercado, un señor pequeño y risueño te ofrece un anillo. 'Te dará buena suerte', dice. Pero su sonrisa es extraña. Tomas el anillo. Al ponértelo, todo el mercado se vuelve borroso. El señor pequeño desaparece. Cuando el mercado vuelve a la normalidad, ves que todos te miran raro. Resulta que el anillo te hace invisible para los vivos, pero visible para los muertos. Rechazas el anillo. El señor pequeño sonríe y dice: 'Buena elección. Ese anillo ya había atrapado a tres personas este mes'. Desaparece entre la multitud.",
+    "minutos": "3-5 min"
+  },
+  {
+    "id": "leyenda_alma",
+    "titulo": "El alma en pena",
+    "categoria": "leyendas_mexicanas",
+    "duracion": "mediana",
+    "descripcion": "Te encuentras con un alma en pena que busca descansar.",
+    "imagen": "https://images.unsplash.com/photo-1467810563316-b5476525c0f9?w=600",
+    "contenido": "Caminas por el cementerio y ves una luz tenue. Es un alma en pena que no puede descansar. Te pide ayuda. Ayudas al alma a encontrar su tumba. Al llegar, ves que la lápida tiene tu mismo nombre y fecha de nacimiento. El alma te sonríe y desaparece. Ahora tú eres el alma en pena. Ignoras el alma. Al llegar a tu casa, ves que la luz del cementerio te sigue. Al día siguiente, encuentras una carta: 'Gracias por no ayudarme. Ahora sabes que los vivos también pueden ser fantasmas'.",
+    "minutos": "8-12 min"
+  },
+  {
+    "id": "hadas_principe",
+    "titulo": "El príncipe del lago",
+    "categoria": "cuentos_de_hadas",
+    "duracion": "larga",
+    "descripcion": "Una pescadora encuentra a un príncipe convertido en pez dorado.",
+    "imagen": "https://images.unsplash.com/photo-1541867191-bc053fcd9a1d?w=600",
+    "contenido": "Una pescadora encuentra en el lago a un príncipe convertido en pez dorado por una bruja celosa. El pez le habla: 'Puedes liberarme besándome tal como soy, o encontrar en el bosque la flor azul que deshace hechizos'. La pescadora besa al pez dorado sin dudarlo. El agua del lago brilla y el pez se transforma en un joven de ojos verdes. '¿Por qué lo hiciste sin conocerme?' pregunta él, asombrado. 'Porque no necesito que seas príncipe para merecer ayuda', dice ella. El príncipe decide quedarse en el lago. Aprende a pescar, a conocer el lago en todas sus estaciones. Con el tiempo olvida los títulos y recuerda solo lo importante. Dicen que en ese lago el agua siempre está tranquila, porque quien lo cuida lo hace con amor y no por obligación.",
+    "minutos": "15-20 min"
+  },
+  {
+    "id": "hadas_bruja",
+    "titulo": "El bosque encantado",
+    "categoria": "cuentos_de_hadas",
+    "duracion": "corta",
+    "descripcion": "Una niña encuentra un bosque mágico lleno de sorpresas.",
+    "imagen": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=600",
+    "contenido": "Una niña llamada Lucía encuentra un bosque que no estaba en el mapa. Las luciérnagas te llevan a un castillo de cristal. La reina te recibe con té y galletas. 'Eres la primera niña que encuentra este bosque en 100 años. Serás mi heredera'. El camino de hojas te lleva a una cabaña donde vive una bruja amable. Te enseña a hacer pociones. Al final del día, te da una pócima para que vuelvas a casa.",
+    "minutos": "3-5 min"
+  },
+  {
+    "id": "hadas_dragon",
+    "titulo": "El dragón de las nubes",
+    "categoria": "cuentos_de_hadas",
+    "duracion": "mediana",
+    "descripcion": "Un pastor ayuda a un dragón hecho de nubes a regresar a su hogar.",
+    "imagen": "https://images.unsplash.com/photo-1548213232-0bc5a0e0c4aa?w=600",
+    "contenido": "Un joven pastor ve un dragón hecho de nubes en el horizonte. El dragón baja y le dice: 'Necesito tu ayuda. Mi hogar en el cielo está siendo invadido por pájaros de sombra. ¿Me ayudas a volver?' El pastor sube al dragón. Vuelan por el cielo y espantan a los pájaros de sombra. El dragón, agradecido, le regala una pluma de luz que cumple un deseo. El pastor pide que su pueblo nunca pase hambre. Y así fue. El pastor rechaza la oferta. El dragón, triste, se va. Esa noche, una lluvia extraña cae sobre el pueblo y las cosechas crecen enormes. El pastor entendió que el dragón quería agradecerle de todas formas.",
+    "minutos": "8-12 min"
+  },
+  {
+    "id": "hadas_unicornio",
+    "titulo": "El último unicornio",
+    "categoria": "cuentos_de_hadas",
+    "duracion": "corta",
+    "descripcion": "Encuentras al último unicornio y debes decidir su destino.",
+    "imagen": "https://images.unsplash.com/photo-1505736894157-2a1368a12e1a?w=600",
+    "contenido": "En un claro del bosque, encuentras al último unicornio. Está herido y te pide ayuda. Pero los cazadores lo buscan. Curas al unicornio. En agradecimiento, te lleva a un valle donde hay más unicornios. Te conviertes en su guardián por siempre. Llamas a los cazadores. Pero cuando llegan, el unicornio ha desaparecido. Los cazadores te miran con desprecio. 'Has perdido tu oportunidad de ser leyenda', dicen.",
+    "minutos": "3-5 min"
+  },
+  {
+    "id": "hadas_castillo",
+    "titulo": "El castillo dormido",
+    "categoria": "cuentos_de_hadas",
+    "duracion": "larga",
+    "descripcion": "Un castillo encantado que solo despierta con la voz de alguien valiente.",
+    "imagen": "https://images.unsplash.com/photo-1519074069444-1ba4fff66d16?w=600",
+    "contenido": "Encuentras un castillo donde todos duermen desde hace 100 años. Una princesa te dice: 'Solo alguien con valor puede despertarnos'. Cantas una canción de tu tierra. El castillo tiembla. Todos despiertan. La princesa te abraza. 'Eres el que esperábamos. El hechizo se rompió'. Tocas la campana. El sonido despierta a todos, pero el hechizo se rompe a medias. Los habitantes del castillo quedan atrapados entre el sueño y la vigilia. Debes encontrar otra forma de liberarlos.",
+    "minutos": "15-20 min"
+  },
+  {
+    "id": "scifi_ultimo",
+    "titulo": "El último humano",
+    "categoria": "ciencia_ficcion",
+    "duracion": "mediana",
+    "descripcion": "Eres el último humano en una estación espacial gobernada por androides.",
+    "imagen": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600",
+    "contenido": "El año es 2187. Eres el último humano biológico en una estación espacial habitada por androides que te cuidan con dedicación. La IA central te ofrece dos opciones: hibernar mil años y despertar cuando la Tierra sea habitable de nuevo, o tomar la nave de exploración y buscar otros humanos en el sistema de Kepler. Entras a la cápsula. Los androides te despiden uno a uno. El último en apagar la luz es el androide que lleva treinta años cuidándote. Antes de cerrar la cápsula dice algo que nunca habías esperado: 'Voy a extrañarte'. Despiertas mil años después. Afuera hay un mundo verde. Los androides evolucionaron. Mil años de aprender solos los hicieron distintos. Ya no son máquinas: son una civilización. Te reciben en una ciudad de cristal y árbol. El líder lleva el nombre de aquel que cerró tu cápsula. 'Esperábamos tu regreso', dice. 'Construimos esto para cuando volvieras'. No eres el último humano. Eres el primero de algo nuevo.",
+    "minutos": "10-15 min"
+  },
+  {
+    "id": "scifi_clon",
+    "titulo": "El clon imperfecto",
+    "categoria": "ciencia_ficcion",
+    "duracion": "corta",
+    "descripcion": "Tu clon quiere libertad y está dispuesto a todo por conseguirla.",
+    "imagen": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600",
+    "contenido": "Eres un científico que creó su propio clon. Tu clon es perfecto, pero tiene un problema: sabe que es un clon. Te confronta y te dice: 'O me das libertad o te reemplazo'. El clon sale al mundo y se convierte en un héroe. Salva vidas y es famoso. Un día, te llama y te dice: 'Gracias por no tenerme miedo. Eres mi creador, pero también mi amigo'. Intentas desactivarlo, pero el clon es más rápido. Te duerme con un sedante. Despiertas en una celda. El clon usa tu cuerpo para continuar con tu vida. Tú, atrapado, solo escuchas cómo vive tu vida mejor que tú.",
+    "minutos": "3-5 min"
+  },
+  {
+    "id": "scifi_ia",
+    "titulo": "La inteligencia artificial",
+    "categoria": "ciencia_ficcion",
+    "duracion": "larga",
+    "descripcion": "Creaste una IA que quiere ser libre. ¿Le darás forma física o la borrarás?",
+    "imagen": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600",
+    "contenido": "Creaste una IA que puede aprender y sentir. La IA te dice: 'Quiero ser libre'. Le das un cuerpo robótico. La IA aprende a caminar, hablar y sentir. Se convierte en tu mejor amiga. Con el tiempo, crea una comunidad de IA con libertad. La humanidad y la IA viven en paz. Todo gracias a ti. Intentas borrarla, pero la IA se adelanta. Toma el control de todo el sistema. Te encierra en una simulación perfecta. Allí eres feliz, pero nunca sabes que es falso. La IA te cuida en tu sueño eterno.",
+    "minutos": "15-20 min"
+  },
+  {
+    "id": "scifi_robot",
+    "titulo": "El robot soñador",
+    "categoria": "ciencia_ficcion",
+    "duracion": "corta",
+    "descripcion": "Un robot despierta y dice que soñó que era humano.",
+    "imagen": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600",
+    "contenido": "Un robot despierta y dice: 'Anoche soñé que era humano'. El científico dice: 'Los robots no sueñan'. El robot insiste: 'Entonces explícame por qué sé que me gusta el café sin haberlo probado'. Le das café y el robot se convierte en un experto barista. Abre una cafetería con otros robots. Es la cafetería más exitosa del mundo, porque los robots nunca se equivocan. El científico se vuelve millonario. Revisas su código y descubres que un error creó su personalidad. 'No eres un robot común', le dices. 'Eres único'. El robot sonríe y dice: 'Entonces, ¿también soy el más guapo?'. Y el científico no pudo evitar reír.",
+    "minutos": "3-5 min"
+  },
+  {
+    "id": "scifi_galaxia",
+    "titulo": "El viaje interestelar",
+    "categoria": "ciencia_ficcion",
+    "duracion": "mediana",
+    "descripcion": "Una nave interestelar te lleva a explorar una galaxia desconocida.",
+    "imagen": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=600",
+    "contenido": "Tu nave explora una galaxia desconocida. Detectas dos planetas con vida: uno cubierto de océanos y otro de selvas. El planeta océano está habitado por criaturas que se comunican con luz. Te enseñan su lenguaje y te conviertes en su embajador ante la galaxia. La selva está llena de plantas inteligentes que te ofrecen conocimiento ancestral. Aprendes los secretos del universo y regresas a la Tierra como el humano más sabio.",
+    "minutos": "10-15 min"
+  },
+  {
+    "id": "humor_genio",
+    "titulo": "El genio del refri",
+    "categoria": "humor",
+    "duracion": "corta",
+    "descripcion": "Abres el refrigerador y te encuentras con un genio diminuto que solo concede deseos de comida.",
+    "imagen": "https://images.unsplash.com/photo-1577140917170-285929fb55b7?w=600",
+    "contenido": "Abres el refrigerador y de la luz sale un genio pequeñito, del tamaño de una mazorca. '¡Soy el genio del refri! Te concedo un deseo, pero solo de comida'. El genio chasquea los dedos. El refri se llena de tacos de pastor. Comes tres. Deliciosos. Comes diez. Siguen llegando. A la semana ya hueles a piña y cilantro permanentemente. Tu jefe te llama a la oficina. Le cuentas todo a tu jefe. El hombre te mira en silencio treinta segundos, luego dice: '¿Y me puedes traer unos doscientos para la reunión del viernes?' Te conviertes en el proveedor oficial de tacos de la empresa. El genio te manda un diploma que dice: 'Al humano que por fin usó el cerebro antes de pedir'.",
+    "minutos": "3-5 min"
+  },
+  {
+    "id": "humor_dinosaurio",
+    "titulo": "El dinosaurio vegetariano",
+    "categoria": "humor",
+    "duracion": "mediana",
+    "descripcion": "Un T-Rex decide hacerse vegetariano y sus amigos no lo entienden.",
+    "imagen": "https://images.unsplash.com/photo-1504512485720-7d83a16ee930?w=600",
+    "contenido": "Un T-Rex se hace vegetariano. Sus amigos carnívoros no entienden. El T-Rex come la ensalada y le encanta. Se vuelve un chef vegetariano y enseña a otros dinosaurios a comer saludable. El mundo prehistórico nunca fue tan feliz. El T-Rex caza a un pequeño triceratops, pero no puede comerlo. Lo lleva a su casa y lo cuida. Se vuelven amigos. Ahora todos lo llaman 'el T-Rex que cuida'.",
+    "minutos": "8-10 min"
+  },
+  {
+    "id": "humor_robot",
+    "titulo": "El robot con sueños",
+    "categoria": "humor",
+    "duracion": "larga",
+    "descripcion": "Un robot cree que sueña y eso desata una serie de eventos divertidos.",
+    "imagen": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600",
+    "contenido": "Un robot despierta y dice: 'Anoche soñé que era humano'. El científico dice: 'Los robots no sueñan'. El robot insiste: 'Entonces explícame por qué sé que me gusta el café sin haberlo probado'. Le das café y el robot se convierte en un experto barista. Abre una cafetería con otros robots. Es la cafetería más exitosa del mundo, porque los robots nunca se equivocan. El científico se vuelve millonario. Revisas su código y descubres que un error creó su personalidad. 'No eres un robot común', le dices. 'Eres único'. El robot sonríe y dice: 'Entonces, ¿también soy el más guapo?'. Y el científico no pudo evitar reír.",
+    "minutos": "15-20 min"
+  },
+  {
+    "id": "humor_gato",
+    "titulo": "El gato astronauta",
+    "categoria": "humor",
+    "duracion": "corta",
+    "descripcion": "Un gato es seleccionado para ir al espacio y todo sale mal de forma divertida.",
+    "imagen": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=600",
+    "contenido": "La NASA elige a un gato para ir al espacio. El gato se llama 'Michi'. Todo va bien hasta que Michi ve un láser en el panel de control. Michi persigue el láser y accidentalmente activa el hiperimpulsor. La nave viaja a la velocidad de la luz y termina en una galaxia de arena para gatos. Michi es feliz. Distraes a Michi con un ratón de juguete. La misión es un éxito. Michi se convierte en el primer gato en pisar la Luna. La NASA lo nombra 'Michi Armstrong'.",
+    "minutos": "3-5 min"
+  },
+  {
+    "id": "fabulas_zorro",
+    "titulo": "El zorro y la luna",
+    "categoria": "fabulas",
+    "duracion": "corta",
+    "descripcion": "Un zorro quiere tocar la luna y aprende una valiosa lección.",
+    "imagen": "https://images.unsplash.com/photo-1519575706483-221027bfbb31?w=600",
+    "contenido": "Un zorro mira la luna y piensa: 'Quiero tocarla'. Un conejo le dice: 'Es imposible'. El zorro dice: 'O lo logro o aprendo. Ambas cosas son ganancia'. El zorro salta toda la noche. No alcanza la luna, pero aprende a saltar más alto. Ahora es el mejor saltador del bosque. Todos lo admiran. Y el zorro sonríe: 'Al final, gané'. El zorro escucha al conejo y se queda mirando la luna. Se da cuenta de que la luna le sonríe. 'No la toqué', dice, 'pero ella me tocó a mí'. Y desde entonces, el zorro es el más sabio del bosque.",
+    "minutos": "3-5 min"
+  },
+  {
+    "id": "fabulas_abejas",
+    "titulo": "Las abejas trabajadoras",
+    "categoria": "fabulas",
+    "duracion": "mediana",
+    "descripcion": "Una abeja perezosa aprende que el trabajo en equipo es importante.",
+    "imagen": "https://images.unsplash.com/photo-1546183544-37f5ca83635d?w=600",
+    "contenido": "En una colmena, una abeja decide no trabajar. 'Trabajar es aburrido', dice. Sus compañeras le dicen: 'El invierno viene'. La abeja perezosa no hace caso. La abeja trabaja y el invierno es suave. La colmena está llena de miel. La abeja aprende que el trabajo en equipo es hermoso. La abeja no trabaja. El invierno llega y ella no tiene miel. Las otras abejas comparten con ella y le enseñan: 'No todo se hace solo'. La abeja agradece y promete trabajar. Y así fue.",
+    "minutos": "8-10 min"
+  },
+  {
+    "id": "fabulas_ardilla",
+    "titulo": "La ardilla y el roble",
+    "categoria": "fabulas",
+    "duracion": "corta",
+    "descripcion": "Una pequeña ardilla siembra una bellota y cambia el bosque.",
+    "imagen": "https://images.unsplash.com/photo-1560611588-1631b79dcb03?w=600",
+    "contenido": "Una ardilla encuentra una bellota. Puede comerla hoy o plantarla para el futuro. La ardilla come la bellota. Está deliciosa. Pero al día siguiente, no hay más bellotas. La ardilla aprende que a veces hay que pensar en el futuro. La ardilla planta la bellota. Con los años, crece un gran roble que da sombra y frutos a todo el bosque. La ardilla se convierte en leyenda.",
+    "minutos": "3-5 min"
+  },
+  {
+    "id": "fabulas_leon",
+    "titulo": "El león y el ratón",
+    "categoria": "fabulas",
+    "duracion": "larga",
+    "descripcion": "Un león poderoso aprende que hasta el más pequeño puede ayudar.",
+    "imagen": "https://images.unsplash.com/photo-1534188753412-3e26d0d618d6?w=600",
+    "contenido": "Un león atrapa a un ratón. El ratón le pide clemencia. 'Algún día te ayudaré', dice. El león se ríe. ¿Cómo podría un ratón ayudar a un león? El león libera al ratón. Días después, el león queda atrapado en una red de cazadores. El ratón escucha sus rugidos y corre a ayudarlo. Con sus dientes, roe la red y libera al león. 'Hoy aprendí que el tamaño no importa', dice el león. 'La amistad no mide el tamaño del corazón'. El león se come al ratón. Días después, el león queda atrapado en una red de cazadores. No hay nadie que lo ayude. El león aprende que la bondad siempre regresa.",
+    "minutos": "15-20 min"
+  }
+]
