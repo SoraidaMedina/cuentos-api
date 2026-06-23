@@ -4,7 +4,7 @@ const { MongoClient } = require('mongodb');
 const cors = require('cors');
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 // Middleware
 app.use(cors());
@@ -26,6 +26,7 @@ async function connectDB() {
         console.log('✅ Conectado a MongoDB');
     } catch (error) {
         console.error('❌ Error conectando:', error);
+        process.exit(1);
     }
 }
 
@@ -54,16 +55,14 @@ app.get('/api/cuentos/categoria/:categoria', async (req, res) => {
     }
 });
 
-// 3. Obtener cuentos por duración - CORREGIDO
+// 3. Obtener cuentos por duración
 app.get('/api/cuentos/duracion/:duracion', async (req, res) => {
     try {
         const { duracion } = req.params;
         console.log(`🔍 Buscando cuentos con duración: "${duracion}"`);
-
         const cuentos = await cuentosCollection
             .find({ duracion: duracion })
             .toArray();
-
         console.log(`✅ Encontrados ${cuentos.length} cuentos`);
         res.json(cuentos);
     } catch (error) {
@@ -77,47 +76,55 @@ app.get('/api/cuentos/filtrar', async (req, res) => {
     try {
         const { categoria, duracion } = req.query;
         const filtro = {};
-
         if (categoria) filtro.categoria = categoria;
         if (duracion) filtro.duracion = duracion;
-
         console.log('🔍 Filtro:', filtro);
-
-        const cuentos = await cuentosCollection
-            .find(filtro)
-            .toArray();
-
+        const cuentos = await cuentosCollection.find(filtro).toArray();
         res.json(cuentos);
     } catch (error) {
         res.status(500).json({ error: error.message });
     }
 });
 
-// 5. Obtener un cuento por ID
-app.get('/api/cuentos/:id', async (req, res) => {
-    try {
-        const { id } = req.params;
-        const cuento = await cuentosCollection.findOne({ id: id });
-
-        if (!cuento) {
-            return res.status(404).json({ error: 'Cuento no encontrado' });
-        }
-        res.json(cuento);
-    } catch (error) {
-        res.status(500).json({ error: error.message });
-    }
-});
-
-// 6. Obtener cuento aleatorio
+// 5. Obtener cuento aleatorio (DEBE ESTAR ANTES DE /:id)
 app.get('/api/cuentos/aleatorio', async (req, res) => {
     try {
+        console.log('🎲 Buscando cuento aleatorio...');
         const count = await cuentosCollection.countDocuments();
+        console.log(`📚 Total de cuentos: ${count}`);
+
+        if (count === 0) {
+            return res.status(404).json({ error: 'No hay cuentos disponibles' });
+        }
+
         const random = Math.floor(Math.random() * count);
         const cuento = await cuentosCollection
             .find({})
             .skip(random)
             .limit(1)
             .next();
+
+        if (!cuento) {
+            return res.status(404).json({ error: 'No se encontró ningún cuento' });
+        }
+
+        console.log(`✅ Cuento aleatorio: ${cuento.titulo}`);
+        res.json(cuento);
+    } catch (error) {
+        console.error('❌ Error:', error);
+        res.status(500).json({ error: error.message });
+    }
+});
+
+// 6. Obtener un cuento por ID (DEBE ESTAR DESPUÉS DE /aleatorio)
+app.get('/api/cuentos/:id', async (req, res) => {
+    try {
+        const { id } = req.params;
+        console.log(`🔍 Buscando cuento por ID: ${id}`);
+        const cuento = await cuentosCollection.findOne({ id: id });
+        if (!cuento) {
+            return res.status(404).json({ error: 'Cuento no encontrado' });
+        }
         res.json(cuento);
     } catch (error) {
         res.status(500).json({ error: error.message });
@@ -144,19 +151,25 @@ app.get('/api/duraciones', async (req, res) => {
     }
 });
 
+// 9. Health check
+app.get('/health', (req, res) => {
+    res.json({ status: 'ok', timestamp: new Date().toISOString() });
+});
+
 // ─── INICIAR SERVIDOR ─────────────────────────────────────
 
 connectDB().then(() => {
-    app.listen(PORT, () => {
-        console.log(`🚀 API corriendo en http://localhost:${PORT}`);
+    app.listen(PORT, '0.0.0.0', () => {
+        console.log(`🚀 API corriendo en http://0.0.0.0:${PORT}`);
         console.log(`📚 Endpoints disponibles:`);
         console.log(`   GET  /api/cuentos`);
         console.log(`   GET  /api/cuentos/categoria/:categoria`);
         console.log(`   GET  /api/cuentos/duracion/:duracion`);
         console.log(`   GET  /api/cuentos/filtrar?categoria=X&duracion=Y`);
+        console.log(`   GET  /api/cuentos/aleatorio ⭐`);
         console.log(`   GET  /api/cuentos/:id`);
-        console.log(`   GET  /api/cuentos/aleatorio`);
         console.log(`   GET  /api/categorias`);
         console.log(`   GET  /api/duraciones`);
+        console.log(`   GET  /health`);
     });
 });
